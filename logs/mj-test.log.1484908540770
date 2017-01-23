@@ -1,0 +1,5 @@
+INFO  11:33:50,614 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 11:33:50,634 - GRESKA: nije pronadjen navedeni tip. [7]
+ERROR 11:33:50,634 - Sintaksna greska na liniji 7
+INFO  11:33:50,634 - > Uspesan oporavak. [7]
+ERROR 11:33:50,635 - Parsiranje NIJE uspesno zavrseno!

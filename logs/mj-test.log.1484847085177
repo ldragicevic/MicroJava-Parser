@@ -1,0 +1,5 @@
+INFO  18:31:08,409 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 18:31:08,425 - GRESKA: nije pronadjen identifikator stampanje2. [6]
+ERROR 18:31:08,425 - Morate pozivati funkciju [6]
+ERROR 18:31:08,425 - Navedeni argumenti nisu ispravni pri pozivu [6]
+ERROR 18:31:08,427 - Parsiranje NIJE uspesno zavrseno!

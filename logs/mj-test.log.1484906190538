@@ -1,0 +1,18 @@
+INFO  10:55:58,027 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  10:55:58,046 - ----------------------------
+INFO  10:55:58,046 - > Prebrojavanje
+INFO  10:55:58,046 - ----------------------------
+INFO  10:55:58,046 - globalVars = 0
+INFO  10:55:58,046 - mainLocalVars = 0
+INFO  10:55:58,046 - globalConsts = 0
+INFO  10:55:58,046 - globalVarArrays = 0
+INFO  10:55:58,046 - classGlobalMethods = 0
+INFO  10:55:58,046 - classStaticMethods = 0
+INFO  10:55:58,046 - statementBlocks = 1
+INFO  10:55:58,046 - mainInvokeCalls = 0
+INFO  10:55:58,046 - methodsFormPars = 0
+INFO  10:55:58,046 - classes = 0
+INFO  10:55:58,046 - classMethods = 0
+INFO  10:55:58,047 - classFields = 0
+INFO  10:55:58,047 - ----------------------------
+INFO  10:55:58,048 - Parsiranje uspesno zavrseno!

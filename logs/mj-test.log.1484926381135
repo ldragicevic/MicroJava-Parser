@@ -1,0 +1,5 @@
+INFO  16:32:44,070 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 16:32:44,086 - GRESKA: nije pronadjen navedeni tip. [7]
+ERROR 16:32:44,087 - Morate inkrementirati int tip, lvalue vrednost [12]
+ERROR 16:32:44,088 - Mora biti prostog tipa [13]
+ERROR 16:32:44,088 - Parsiranje NIJE uspesno zavrseno!

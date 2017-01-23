@@ -1,0 +1,3 @@
+INFO  20:01:33,857 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 20:01:33,875 - Dodela vrednosti nije moguca [17]
+ERROR 20:01:33,876 - Parsiranje NIJE uspesno zavrseno!

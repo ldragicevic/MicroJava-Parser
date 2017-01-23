@@ -1,0 +1,4 @@
+INFO  19:53:41,540 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 19:53:41,559 - Morate indeksirati sa int tipom [17]
+ERROR 19:53:41,559 - Dodela vrednosti nije moguca [17]
+ERROR 19:53:41,560 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,145 @@
+ERROR 02:46:20,049 - <source-file> [C:\pp1domaci\workspace\MJCompiler\testprimer.mj] nije pronadjen!
+INFO  02:46:35,948 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\testprimer.mj
+INFO  02:46:35,963 - ----------------------------
+INFO  02:46:35,963 - > Symbol Count
+INFO  02:46:35,963 - ----------------------------
+INFO  02:46:35,963 - globalVars = 0
+INFO  02:46:35,963 - mainLocalVars = 1
+INFO  02:46:35,963 - globalConsts = 0
+INFO  02:46:35,963 - globalVarArrays = 0
+INFO  02:46:35,963 - globalMethods = 1
+INFO  02:46:35,963 - classGlobalMethods = 0
+INFO  02:46:35,963 - classStaticMethods = 0
+INFO  02:46:35,963 - statementBlocks = 2
+INFO  02:46:35,963 - mainInvokeCalls = 0
+INFO  02:46:35,963 - methodsFormPars = 0
+INFO  02:46:35,964 - classes = 0
+INFO  02:46:35,964 - classMethods = 0
+INFO  02:46:35,964 - classFields = 0
+INFO  02:46:35,964 - ----------------------------
+INFO  02:46:35,964 - Generisanje bajtkoda: C:\pp1domaci\workspace\MJCompiler\testprimer.obj
+INFO  02:46:35,964 - ----------------------------
+INFO  02:46:35,965 - Parsiranje uspesno zavrseno!
+INFO  02:46:35,965 - ----------------------------
+INFO  02:46:35,965 - > Pokretanje .obj
+INFO  02:46:35,965 - ----------------------------
+INFO  02:46:41,818 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\testprimer.mj
+INFO  02:46:41,832 - ----------------------------
+INFO  02:46:41,832 - > Symbol Count
+INFO  02:46:41,832 - ----------------------------
+INFO  02:46:41,832 - globalVars = 0
+INFO  02:46:41,833 - mainLocalVars = 1
+INFO  02:46:41,833 - globalConsts = 0
+INFO  02:46:41,833 - globalVarArrays = 0
+INFO  02:46:41,833 - globalMethods = 1
+INFO  02:46:41,833 - classGlobalMethods = 0
+INFO  02:46:41,833 - classStaticMethods = 0
+INFO  02:46:41,833 - statementBlocks = 2
+INFO  02:46:41,833 - mainInvokeCalls = 0
+INFO  02:46:41,833 - methodsFormPars = 0
+INFO  02:46:41,833 - classes = 0
+INFO  02:46:41,833 - classMethods = 0
+INFO  02:46:41,833 - classFields = 0
+INFO  02:46:41,833 - ----------------------------
+INFO  02:46:41,833 - Generisanje bajtkoda: C:\pp1domaci\workspace\MJCompiler\testprimer.obj
+INFO  02:46:41,834 - ----------------------------
+INFO  02:46:41,834 - Parsiranje uspesno zavrseno!
+INFO  02:46:41,834 - ----------------------------
+INFO  02:46:41,834 - > Pokretanje .obj
+INFO  02:46:41,834 - ----------------------------
+INFO  02:52:32,743 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\testprimer.mj
+INFO  02:52:32,757 - ----------------------------
+INFO  02:52:32,757 - > Symbol Count
+INFO  02:52:32,757 - ----------------------------
+INFO  02:52:32,757 - globalVars = 0
+INFO  02:52:32,757 - mainLocalVars = 1
+INFO  02:52:32,758 - globalConsts = 0
+INFO  02:52:32,758 - globalVarArrays = 0
+INFO  02:52:32,758 - globalMethods = 1
+INFO  02:52:32,758 - classGlobalMethods = 0
+INFO  02:52:32,758 - classStaticMethods = 0
+INFO  02:52:32,758 - statementBlocks = 2
+INFO  02:52:32,758 - mainInvokeCalls = 0
+INFO  02:52:32,758 - methodsFormPars = 0
+INFO  02:52:32,758 - classes = 0
+INFO  02:52:32,758 - classMethods = 0
+INFO  02:52:32,758 - classFields = 0
+INFO  02:52:32,758 - ----------------------------
+INFO  02:52:32,758 - Generisanje bajtkoda: C:\pp1domaci\workspace\MJCompiler\testprimer.obj
+INFO  02:52:32,759 - ----------------------------
+INFO  02:52:32,759 - Parsiranje uspesno zavrseno!
+INFO  02:52:32,760 - ----------------------------
+INFO  02:52:32,760 - > Pokretanje .obj
+INFO  02:52:32,760 - ----------------------------
+INFO  02:53:41,549 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\testprimer.mj
+INFO  02:53:41,563 - ----------------------------
+INFO  02:53:41,564 - > Symbol Count
+INFO  02:53:41,564 - ----------------------------
+INFO  02:53:41,564 - globalVars = 0
+INFO  02:53:41,564 - mainLocalVars = 1
+INFO  02:53:41,564 - globalConsts = 0
+INFO  02:53:41,564 - globalVarArrays = 0
+INFO  02:53:41,564 - globalMethods = 1
+INFO  02:53:41,564 - classGlobalMethods = 0
+INFO  02:53:41,564 - classStaticMethods = 0
+INFO  02:53:41,564 - statementBlocks = 2
+INFO  02:53:41,564 - mainInvokeCalls = 0
+INFO  02:53:41,564 - methodsFormPars = 0
+INFO  02:53:41,564 - classes = 0
+INFO  02:53:41,564 - classMethods = 0
+INFO  02:53:41,564 - classFields = 0
+INFO  02:53:41,564 - ----------------------------
+INFO  02:53:41,564 - Generisanje bajtkoda: C:\pp1domaci\workspace\MJCompiler\testprimer.obj
+INFO  02:53:41,565 - ----------------------------
+INFO  02:53:41,565 - Parsiranje uspesno zavrseno!
+INFO  02:53:41,565 - ----------------------------
+INFO  02:53:41,565 - > Pokretanje .obj
+INFO  02:53:41,565 - ----------------------------
+INFO  03:02:19,262 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\testprimer.mj
+INFO  03:02:19,277 - ----------------------------
+INFO  03:02:19,277 - > Symbol Count
+INFO  03:02:19,277 - ----------------------------
+INFO  03:02:19,277 - globalVars = 0
+INFO  03:02:19,277 - mainLocalVars = 1
+INFO  03:02:19,277 - globalConsts = 0
+INFO  03:02:19,277 - globalVarArrays = 0
+INFO  03:02:19,277 - globalMethods = 1
+INFO  03:02:19,277 - classGlobalMethods = 0
+INFO  03:02:19,277 - classStaticMethods = 0
+INFO  03:02:19,277 - statementBlocks = 2
+INFO  03:02:19,277 - mainInvokeCalls = 0
+INFO  03:02:19,277 - methodsFormPars = 0
+INFO  03:02:19,277 - classes = 0
+INFO  03:02:19,277 - classMethods = 0
+INFO  03:02:19,277 - classFields = 0
+INFO  03:02:19,278 - ----------------------------
+INFO  03:02:19,278 - Generisanje bajtkoda: C:\pp1domaci\workspace\MJCompiler\testprimer.obj
+INFO  03:02:19,279 - ----------------------------
+INFO  03:02:19,279 - Parsiranje uspesno zavrseno!
+INFO  03:02:19,279 - ----------------------------
+INFO  03:02:19,279 - > Pokretanje .obj
+INFO  03:02:19,279 - ----------------------------
+INFO  03:02:20,156 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\testprimer.mj
+INFO  03:02:20,171 - ----------------------------
+INFO  03:02:20,172 - > Symbol Count
+INFO  03:02:20,172 - ----------------------------
+INFO  03:02:20,172 - globalVars = 0
+INFO  03:02:20,172 - mainLocalVars = 1
+INFO  03:02:20,172 - globalConsts = 0
+INFO  03:02:20,172 - globalVarArrays = 0
+INFO  03:02:20,172 - globalMethods = 1
+INFO  03:02:20,172 - classGlobalMethods = 0
+INFO  03:02:20,172 - classStaticMethods = 0
+INFO  03:02:20,172 - statementBlocks = 2
+INFO  03:02:20,172 - mainInvokeCalls = 0
+INFO  03:02:20,172 - methodsFormPars = 0
+INFO  03:02:20,172 - classes = 0
+INFO  03:02:20,172 - classMethods = 0
+INFO  03:02:20,172 - classFields = 0
+INFO  03:02:20,172 - ----------------------------
+INFO  03:02:20,172 - Generisanje bajtkoda: C:\pp1domaci\workspace\MJCompiler\testprimer.obj
+INFO  03:02:20,173 - ----------------------------
+INFO  03:02:20,173 - Parsiranje uspesno zavrseno!
+INFO  03:02:20,173 - ----------------------------
+INFO  03:02:20,173 - > Pokretanje .obj
+INFO  03:02:20,173 - ----------------------------

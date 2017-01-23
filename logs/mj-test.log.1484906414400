@@ -1,0 +1,19 @@
+INFO  11:00:09,042 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 11:00:09,058 - GRESKA: nije pronadjena return naredba. [10]
+INFO  11:00:09,059 - ----------------------------
+INFO  11:00:09,059 - > Symbol Count
+INFO  11:00:09,059 - ----------------------------
+INFO  11:00:09,059 - globalVars = 0
+INFO  11:00:09,059 - mainLocalVars = 2
+INFO  11:00:09,059 - globalConsts = 0
+INFO  11:00:09,059 - globalVarArrays = 0
+INFO  11:00:09,059 - classGlobalMethods = 1
+INFO  11:00:09,059 - classStaticMethods = 0
+INFO  11:00:09,060 - statementBlocks = 3
+INFO  11:00:09,060 - mainInvokeCalls = 0
+INFO  11:00:09,060 - methodsFormPars = 0
+INFO  11:00:09,060 - classes = 1
+INFO  11:00:09,060 - classMethods = 1
+INFO  11:00:09,060 - classFields = 0
+INFO  11:00:09,060 - ----------------------------
+ERROR 11:00:09,060 - Parsiranje NIJE uspesno zavrseno!

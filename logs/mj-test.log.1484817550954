@@ -1,0 +1,7 @@
+INFO  10:18:44,144 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 10:18:44,161 - GRESKA: nije pronadjen identifikator y. [23]
+ERROR 10:18:44,161 - Nije moguce dodeliti vrednost [23]
+ERROR 10:18:44,161 - GRESKA: nije pronadjen identifikator z. [26]
+ERROR 10:18:44,162 - GRESKA: nije pronadjen identifikator y. [26]
+ERROR 10:18:44,162 - Nije moguce dodeliti vrednost [26]
+ERROR 10:18:44,163 - Parsiranje NIJE uspesno zavrseno!

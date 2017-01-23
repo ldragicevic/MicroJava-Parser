@@ -1,0 +1,22 @@
+INFO  11:07:11,534 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 11:07:11,551 - GRESKA: identifikator a se vec koristi. [21]
+ERROR 11:07:11,551 - GRESKA: identifikator b se vec koristi. [21]
+ERROR 11:07:11,551 - GRESKA: identifikator c se vec koristi. [21]
+ERROR 11:07:11,551 - GRESKA: identifikator funkcije je vec iskoriscen. [23]
+INFO  11:07:11,552 - ----------------------------
+INFO  11:07:11,552 - > Symbol Count
+INFO  11:07:11,552 - ----------------------------
+INFO  11:07:11,552 - globalVars = 4
+INFO  11:07:11,552 - mainLocalVars = 3
+INFO  11:07:11,552 - globalConsts = 2
+INFO  11:07:11,553 - globalVarArrays = 3
+INFO  11:07:11,553 - classGlobalMethods = 1
+INFO  11:07:11,553 - classStaticMethods = 1
+INFO  11:07:11,553 - statementBlocks = 4
+INFO  11:07:11,553 - mainInvokeCalls = 0
+INFO  11:07:11,553 - methodsFormPars = 5
+INFO  11:07:11,553 - classes = 2
+INFO  11:07:11,553 - classMethods = 2
+INFO  11:07:11,553 - classFields = 3
+INFO  11:07:11,553 - ----------------------------
+ERROR 11:07:11,553 - Parsiranje NIJE uspesno zavrseno!

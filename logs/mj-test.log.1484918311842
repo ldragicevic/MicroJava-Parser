@@ -1,0 +1,4 @@
+INFO  14:16:05,537 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 14:16:05,553 - Sintaksna greska na liniji 7
+INFO  14:16:05,554 - > Uspesan oporavak. [7]
+ERROR 14:16:05,555 - Parsiranje NIJE uspesno zavrseno!

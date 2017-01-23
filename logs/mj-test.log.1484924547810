@@ -1,0 +1,4 @@
+INFO  16:02:19,629 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 16:02:19,645 - GRESKA: nije pronadjena return naredba. [8]
+ERROR 16:02:19,646 - Dodela vrednosti nije moguca [12]
+ERROR 16:02:19,647 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,5 @@
+INFO  16:09:43,870 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 16:09:43,887 - Sintaksna greska na liniji 6
+INFO  16:09:43,888 - > Uspesan oporavak. [6]
+ERROR 16:09:43,888 - GRESKA: nije pronadjena return naredba. [7]
+ERROR 16:09:43,889 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,3 @@
+INFO  15:40:55,169 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 15:40:55,187 - GRESKA: tipovi se ne slazu. [5]
+ERROR 15:40:55,188 - Parsiranje NIJE uspesno zavrseno!

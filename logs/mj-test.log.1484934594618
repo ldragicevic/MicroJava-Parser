@@ -1,0 +1,4 @@
+INFO  18:48:19,599 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 18:48:19,617 - Morate indeksirati sa int tipom [22]
+ERROR 18:48:19,617 - Mora biti prostog tipa [22]
+ERROR 18:48:19,618 - Parsiranje NIJE uspesno zavrseno!

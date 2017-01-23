@@ -1,0 +1,4 @@
+INFO  15:28:17,292 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 15:28:17,309 - Sintaksna greska na liniji 10
+INFO  15:28:17,310 - > Uspesan oporavak. [10]
+ERROR 15:28:17,310 - GRESKA: nije pronadjena return naredba. [11]

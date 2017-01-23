@@ -1,0 +1,4 @@
+INFO  16:47:00,828 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 16:47:00,845 - Return sme biti samo u funkcijama [7]
+ERROR 16:47:00,845 - GRESKA: nije pronadjena return naredba. [8]
+ERROR 16:47:00,847 - Parsiranje NIJE uspesno zavrseno!

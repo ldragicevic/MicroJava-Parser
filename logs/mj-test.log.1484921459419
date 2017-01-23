@@ -1,0 +1,7 @@
+INFO  15:10:51,229 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 15:10:51,248 - Sintaksna greska na liniji 7
+INFO  15:10:51,249 - > Uspesan oporavak. [7]
+ERROR 15:10:51,249 - GRESKA: identifikator x se vec koristi. [9]
+ERROR 15:10:51,249 - Sintaksna greska na liniji 10
+INFO  15:10:51,249 - > Uspesan oporavak. [9]
+ERROR 15:10:51,250 - Parsiranje NIJE uspesno zavrseno!

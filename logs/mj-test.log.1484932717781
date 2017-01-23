@@ -1,0 +1,6 @@
+INFO  18:18:30,008 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 18:18:30,026 - Sintaksna greska na liniji 22
+INFO  18:18:30,027 - > Uspesan oporavak. [22]
+ERROR 18:18:30,028 - Sintaksna greska na liniji 22
+INFO  18:18:30,028 - > Uspesan oporavak. [22]
+ERROR 18:18:30,029 - Parsiranje NIJE uspesno zavrseno!

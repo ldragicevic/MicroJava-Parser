@@ -1,0 +1,3 @@
+INFO  17:34:30,020 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 17:34:30,037 - GRESKA: nije pronadjen identifikator nizz. [10]
+ERROR 17:34:30,037 - Morate pristupiti nizu [10]

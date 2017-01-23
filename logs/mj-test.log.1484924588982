@@ -1,0 +1,7 @@
+INFO  16:02:59,968 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 16:02:59,985 - Dodela vrednosti nije moguca [12]
+ERROR 16:02:59,985 - GRESKA: nije pronadjen identifikator x. [14]
+ERROR 16:02:59,985 - Dodela vrednosti nije moguca [14]
+ERROR 16:02:59,985 - GRESKA: nije pronadjen identifikator x. [15]
+ERROR 16:02:59,985 - Mora biti prostog tipa [15]
+ERROR 16:02:59,986 - Parsiranje NIJE uspesno zavrseno!

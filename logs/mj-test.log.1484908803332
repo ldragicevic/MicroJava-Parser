@@ -1,0 +1,9 @@
+INFO  11:39:51,072 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 11:39:51,100 - Sintaksna greska na liniji 15
+INFO  11:39:51,101 - > Uspesan oporavak. [15]
+ERROR 11:39:51,101 - Nije moguce dodeliti vrednost [15]
+ERROR 11:39:51,101 - GRESKA: nije pronadjen identifikator fja. [16]
+ERROR 11:39:51,101 - Morate pozivati funkciju [16]
+ERROR 11:39:51,101 - Sintaksna greska na liniji 16
+INFO  11:39:51,101 - > Uspesan oporavak. [16]
+ERROR 11:39:51,102 - Parsiranje NIJE uspesno zavrseno!

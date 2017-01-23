@@ -1,0 +1,9 @@
+INFO  13:57:43,271 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 13:57:43,290 - Sintaksna greska na liniji 14
+INFO  13:57:43,290 - > Uspesan oporavak. [14]
+ERROR 13:57:43,290 - Sintaksna greska na liniji 14
+INFO  13:57:43,290 - > Uspesan oporavak. [14]
+ERROR 13:57:43,291 - Sintaksna greska na liniji 14
+INFO  13:57:43,291 - > Uspesan oporavak. [14]
+ERROR 13:57:43,291 - GRESKA: nije pronadjena return naredba. [15]
+ERROR 13:57:43,292 - Parsiranje NIJE uspesno zavrseno!

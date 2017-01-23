@@ -1,0 +1,32 @@
+//Test 302
+
+program test302
+
+
+int i;
+bool ijedva;
+
+int niz[];
+{
+	
+	int sum(int z, int d)
+	{
+		return z + d;
+	}
+	
+	int inkrement(int a) int pom; 
+	{
+		pom = 1;
+		return sum(a,pom);
+	}
+	
+	void main()
+	{
+
+		for (i = 0; i<10; i++) {
+			print(10-i*5);
+		}
+			
+	}
+}
+

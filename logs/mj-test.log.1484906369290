@@ -1,0 +1,21 @@
+INFO  10:59:16,828 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 10:59:16,844 - GRESKA: identifikator funkcije je vec iskoriscen. [7]
+ERROR 10:59:16,844 - GRESKA: identifikator funkcije je vec iskoriscen. [7]
+ERROR 10:59:16,844 - GRESKA: identifikator funkcije je vec iskoriscen. [7]
+INFO  10:59:16,845 - ----------------------------
+INFO  10:59:16,846 - > Symbol Count
+INFO  10:59:16,846 - ----------------------------
+INFO  10:59:16,846 - globalVars = 0
+INFO  10:59:16,846 - mainLocalVars = 0
+INFO  10:59:16,846 - globalConsts = 0
+INFO  10:59:16,846 - globalVarArrays = 0
+INFO  10:59:16,846 - classGlobalMethods = 1
+INFO  10:59:16,846 - classStaticMethods = 1
+INFO  10:59:16,846 - statementBlocks = 6
+INFO  10:59:16,847 - mainInvokeCalls = 0
+INFO  10:59:16,847 - methodsFormPars = 0
+INFO  10:59:16,847 - classes = 1
+INFO  10:59:16,847 - classMethods = 2
+INFO  10:59:16,847 - classFields = 0
+INFO  10:59:16,847 - ----------------------------
+ERROR 10:59:16,847 - Parsiranje NIJE uspesno zavrseno!

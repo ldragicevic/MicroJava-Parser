@@ -1,0 +1,6 @@
+INFO  14:05:37,316 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 14:05:37,332 - Sintaksna greska na liniji 7
+ERROR 14:05:37,333 - GRESKA: identifikator a se vec koristi. [8]
+ERROR 14:05:37,333 - Sintaksna greska na liniji 9
+ERROR 14:05:37,333 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 12
+ERROR 14:05:37,334 - Parsiranje NIJE uspesno zavrseno!

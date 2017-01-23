@@ -1,0 +1,3 @@
+INFO  16:17:22,395 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 16:17:22,413 - Morate inkrementirati int tip, lvalue vrednost [17]
+ERROR 16:17:22,413 - Parsiranje NIJE uspesno zavrseno!

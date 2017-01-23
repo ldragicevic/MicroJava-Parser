@@ -1,0 +1,3 @@
+INFO  16:16:22,590 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 16:16:22,608 - GRESKA: samo metode klase mogu biti static. [6]
+ERROR 16:16:22,610 - Parsiranje NIJE uspesno zavrseno!

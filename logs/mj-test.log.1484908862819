@@ -1,0 +1,4 @@
+INFO  11:40:19,537 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 11:40:19,563 - Sintaksna greska na liniji 15
+INFO  11:40:19,564 - > Uspesan oporavak. [15]
+ERROR 11:40:19,564 - Morate pristupati klasnim poljima [16]

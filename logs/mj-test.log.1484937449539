@@ -1,0 +1,5 @@
+INFO  19:37:15,403 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 19:37:15,421 - GRESKA: Levo od = mora biti lvalue. [0]
+ERROR 19:37:15,421 - Morate indeksirati sa int tipom [19]
+ERROR 19:37:15,422 - Mora biti prostog tipa [19]
+ERROR 19:37:15,422 - Parsiranje NIJE uspesno zavrseno!

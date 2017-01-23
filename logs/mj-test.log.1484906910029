@@ -1,0 +1,18 @@
+INFO  11:07:23,695 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  11:07:23,713 - ----------------------------
+INFO  11:07:23,713 - > Symbol Count
+INFO  11:07:23,713 - ----------------------------
+INFO  11:07:23,713 - globalVars = 4
+INFO  11:07:23,714 - mainLocalVars = 3
+INFO  11:07:23,714 - globalConsts = 2
+INFO  11:07:23,714 - globalVarArrays = 3
+INFO  11:07:23,714 - classGlobalMethods = 1
+INFO  11:07:23,714 - classStaticMethods = 1
+INFO  11:07:23,714 - statementBlocks = 3
+INFO  11:07:23,714 - mainInvokeCalls = 0
+INFO  11:07:23,714 - methodsFormPars = 3
+INFO  11:07:23,714 - classes = 2
+INFO  11:07:23,714 - classMethods = 2
+INFO  11:07:23,714 - classFields = 3
+INFO  11:07:23,714 - ----------------------------
+INFO  11:07:23,715 - Parsiranje uspesno zavrseno!

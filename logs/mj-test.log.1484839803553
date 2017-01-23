@@ -1,0 +1,3 @@
+INFO  16:29:58,050 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 16:29:58,068 - Navedeni argumenti nisu ispravni pri pozivu [20]
+ERROR 16:29:58,069 - Parsiranje NIJE uspesno zavrseno!

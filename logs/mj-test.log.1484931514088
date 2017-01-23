@@ -1,0 +1,12 @@
+INFO  17:52:39,015 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 17:52:39,031 - Sintaksna greska na liniji 10
+INFO  17:52:39,031 - > Uspesan oporavak. [9]
+ERROR 17:52:39,032 - GRESKA: nije pronadjen identifikator main. [11]
+ERROR 17:52:39,032 - Morate pozivati funkciju [11]
+ERROR 17:52:39,032 - Sintaksna greska na liniji 11
+INFO  17:52:39,032 - > Uspesan oporavak. [11]
+ERROR 17:52:39,032 - GRESKA: nije pronadjen identifikator a. [14]
+ERROR 17:52:39,032 - Dodela vrednosti nije moguca [14]
+ERROR 17:52:39,032 - Sintaksna greska na liniji 17
+ERROR 17:52:39,032 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 17
+ERROR 17:52:39,033 - Parsiranje NIJE uspesno zavrseno!

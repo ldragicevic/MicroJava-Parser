@@ -1,0 +1,3 @@
+INFO  15:41:48,459 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 15:41:48,475 - GRESKA: identifikator natklase nije validan. [11]
+ERROR 15:41:48,476 - Parsiranje NIJE uspesno zavrseno!

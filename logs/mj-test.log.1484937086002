@@ -1,0 +1,3 @@
+INFO  19:29:45,286 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 19:29:45,305 - Mora biti prostog tipa [17]
+ERROR 19:29:45,305 - Parsiranje NIJE uspesno zavrseno!

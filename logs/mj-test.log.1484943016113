@@ -1,0 +1,3 @@
+INFO  21:03:50,064 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 21:03:50,081 - Morate biti u FOR petlji [34]
+ERROR 21:03:50,082 - Parsiranje NIJE uspesno zavrseno!

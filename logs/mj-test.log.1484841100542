@@ -1,0 +1,3 @@
+INFO  16:51:19,478 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 16:51:19,495 - Return sme biti samo u funkcijama [7]
+ERROR 16:51:19,496 - Parsiranje NIJE uspesno zavrseno!

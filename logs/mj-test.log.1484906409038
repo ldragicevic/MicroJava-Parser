@@ -1,0 +1,19 @@
+INFO  10:59:49,180 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 10:59:49,202 - Nije moguce dodeliti vrednost [12]
+INFO  10:59:49,204 - ----------------------------
+INFO  10:59:49,204 - > Symbol Count
+INFO  10:59:49,204 - ----------------------------
+INFO  10:59:49,204 - globalVars = 0
+INFO  10:59:49,204 - mainLocalVars = 1
+INFO  10:59:49,204 - globalConsts = 0
+INFO  10:59:49,204 - globalVarArrays = 0
+INFO  10:59:49,204 - classGlobalMethods = 1
+INFO  10:59:49,204 - classStaticMethods = 0
+INFO  10:59:49,204 - statementBlocks = 2
+INFO  10:59:49,204 - mainInvokeCalls = 0
+INFO  10:59:49,204 - methodsFormPars = 0
+INFO  10:59:49,204 - classes = 1
+INFO  10:59:49,204 - classMethods = 1
+INFO  10:59:49,205 - classFields = 0
+INFO  10:59:49,205 - ----------------------------
+ERROR 10:59:49,205 - Parsiranje NIJE uspesno zavrseno!

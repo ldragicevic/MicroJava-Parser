@@ -1,0 +1,4 @@
+INFO  13:54:28,768 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 13:54:28,786 - Sintaksna greska na liniji 6
+ERROR 13:54:28,787 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 12
+ERROR 13:54:28,788 - Parsiranje NIJE uspesno zavrseno!

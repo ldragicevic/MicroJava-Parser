@@ -1,0 +1,5 @@
+INFO  11:37:53,767 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 11:37:53,787 - GRESKA: nije pronadjen identifikator sdafa. [10]
+ERROR 11:37:53,787 - Morate indeksirati sa int tipom [10]
+ERROR 11:37:53,788 - Nije moguce dodeliti vrednost [10]
+ERROR 11:37:53,788 - Parsiranje NIJE uspesno zavrseno!

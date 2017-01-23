@@ -1,0 +1,7 @@
+INFO  15:18:31,359 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 15:18:31,377 - Sintaksna greska na liniji 6
+INFO  15:18:31,378 - > Uspesan oporavak. [6]
+ERROR 15:18:31,378 - GRESKA: identifikator a se vec koristi. [7]
+ERROR 15:18:31,378 - Sintaksna greska na liniji 8
+INFO  15:18:31,378 - > Uspesan oporavak. [7]
+ERROR 15:18:31,379 - Parsiranje NIJE uspesno zavrseno!

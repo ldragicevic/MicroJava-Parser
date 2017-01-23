@@ -1,0 +1,19 @@
+INFO  10:57:00,654 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 10:57:00,670 - GRESKA: identifikator c se vec koristi. [6]
+INFO  10:57:00,671 - ----------------------------
+INFO  10:57:00,671 - > Symbol Count
+INFO  10:57:00,671 - ----------------------------
+INFO  10:57:00,671 - globalVars = 2
+INFO  10:57:00,672 - mainLocalVars = 0
+INFO  10:57:00,672 - globalConsts = 0
+INFO  10:57:00,672 - globalVarArrays = 1
+INFO  10:57:00,672 - classGlobalMethods = 0
+INFO  10:57:00,672 - classStaticMethods = 0
+INFO  10:57:00,672 - statementBlocks = 1
+INFO  10:57:00,672 - mainInvokeCalls = 0
+INFO  10:57:00,672 - methodsFormPars = 0
+INFO  10:57:00,672 - classes = 0
+INFO  10:57:00,672 - classMethods = 0
+INFO  10:57:00,709 - classFields = 0
+INFO  10:57:00,709 - ----------------------------
+ERROR 10:57:00,709 - Parsiranje NIJE uspesno zavrseno!

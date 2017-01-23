@@ -1,0 +1,5 @@
+INFO  16:36:37,600 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 16:36:37,617 - GRESKA: nije pronadjen identifikator niz. [12]
+ERROR 16:36:37,617 - Morate pristupiti nizu [12]
+ERROR 16:36:37,618 - GRESKA: nije pronadjen identifikator niz. [12]
+ERROR 16:36:37,618 - Morate pristupiti nizu [12]

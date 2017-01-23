@@ -1,0 +1,4 @@
+INFO  10:19:10,958 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 10:19:10,973 - GRESKA: nije pronadjen identifikator z. [27]
+ERROR 10:19:10,974 - Nije moguce dodeliti vrednost [27]
+ERROR 10:19:10,975 - Parsiranje NIJE uspesno zavrseno!

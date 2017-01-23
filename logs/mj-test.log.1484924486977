@@ -1,0 +1,3 @@
+INFO  16:00:02,928 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 16:00:02,945 - GRESKA: nije pronadjen navedeni tip. [5]
+ERROR 16:00:02,946 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,4 @@
+INFO  13:57:14,419 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 13:57:14,438 - Void funkcija ne moze ucestvovati u izrazu [23]
+ERROR 13:57:14,438 - Mora biti prostog tipa [23]
+ERROR 13:57:14,438 - Parsiranje NIJE uspesno zavrseno!

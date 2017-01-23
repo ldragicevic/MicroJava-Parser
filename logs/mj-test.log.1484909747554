@@ -1,0 +1,4 @@
+INFO  11:55:43,098 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 11:55:43,115 - GRESKA: identifikator a se vec koristi. [13]
+ERROR 11:55:43,115 - Nije moguce dodeliti vrednost [15]
+ERROR 11:55:43,116 - Parsiranje NIJE uspesno zavrseno!

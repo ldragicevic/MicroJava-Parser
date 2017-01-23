@@ -1,0 +1,3 @@
+INFO  19:36:43,795 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 19:36:43,814 - GRESKA: Levo od = mora biti lvalue. [0]
+ERROR 19:36:43,815 - Parsiranje NIJE uspesno zavrseno!

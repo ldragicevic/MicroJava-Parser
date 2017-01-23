@@ -1,0 +1,5 @@
+INFO  15:08:25,131 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 15:08:25,147 - Sintaksna greska na liniji 7
+ERROR 15:08:25,147 - GRESKA: nije pronadjen navedeni tip. [9]
+ERROR 15:08:25,147 - Sintaksna greska na liniji 10
+ERROR 15:08:25,148 - Parsiranje NIJE uspesno zavrseno!

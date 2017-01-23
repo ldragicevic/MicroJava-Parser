@@ -1,0 +1,7 @@
+INFO  15:10:34,647 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 15:10:34,666 - Sintaksna greska na liniji 7
+INFO  15:10:34,667 - > Uspesan oporavak. [7]
+ERROR 15:10:34,667 - GRESKA: nije pronadjen navedeni tip. [9]
+ERROR 15:10:34,667 - Sintaksna greska na liniji 10
+INFO  15:10:34,668 - > Uspesan oporavak. [9]
+ERROR 15:10:34,668 - Parsiranje NIJE uspesno zavrseno!

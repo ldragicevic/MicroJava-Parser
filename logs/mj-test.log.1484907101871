@@ -1,0 +1,19 @@
+INFO  11:09:20,879 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 11:09:20,896 - Navedeni argumenti nisu ispravni pri pozivu [38]
+INFO  11:09:20,897 - ----------------------------
+INFO  11:09:20,897 - > Symbol Count
+INFO  11:09:20,897 - ----------------------------
+INFO  11:09:20,897 - globalVars = 4
+INFO  11:09:20,897 - mainLocalVars = 3
+INFO  11:09:20,897 - globalConsts = 2
+INFO  11:09:20,897 - globalVarArrays = 3
+INFO  11:09:20,898 - classGlobalMethods = 1
+INFO  11:09:20,898 - classStaticMethods = 1
+INFO  11:09:20,898 - statementBlocks = 5
+INFO  11:09:20,898 - mainInvokeCalls = 2
+INFO  11:09:20,898 - methodsFormPars = 4
+INFO  11:09:20,898 - classes = 2
+INFO  11:09:20,898 - classMethods = 2
+INFO  11:09:20,899 - classFields = 5
+INFO  11:09:20,899 - ----------------------------
+ERROR 11:09:20,899 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,5 @@
+INFO  11:40:03,335 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+ERROR 11:40:03,357 - Sintaksna greska na liniji 15
+INFO  11:40:03,359 - > Uspesan oporavak. [15]
+ERROR 11:40:03,359 - Nije moguce dodeliti vrednost [15]
+ERROR 11:40:03,360 - Parsiranje NIJE uspesno zavrseno!
